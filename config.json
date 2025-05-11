@@ -1,0 +1,6 @@
+{
+  "defaultOptions": {
+    "maxRetries": 3,
+    "timeout": 5000
+  }
+}
